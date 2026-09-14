@@ -25,16 +25,16 @@ O projeto tem como objetivo praticar a construção de uma aplicação web compl
 
 ### Backend
 
-- [ ] Configuração do Node.js
-- [ ] Configuração do Express
-- [ ] Conexão com MySQL
-- [ ] Configuração das variáveis de ambiente
-- [ ] Criação da API REST
-- [ ] Rota para listar serviços
-- [ ] Rota para cadastrar serviços
-- [ ] Rota para atualizar serviços
-- [ ] Rota para desativar serviços
-- [ ] Rota para ativar serviços
+- [x] Configuração do Node.js
+- [x] Configuração do Express
+- [x] Conexão com MySQL
+- [x] Configuração das variáveis de ambiente
+- [x] Criação da API REST
+- [x] Rota para listar serviços
+- [x] Rota para cadastrar serviços
+- [x] Rota para atualizar serviços
+- [x] Rota para desativar serviços
+- [x] Rota para ativar serviços
 
 ### Frontend
 
